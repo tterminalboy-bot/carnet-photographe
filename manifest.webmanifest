@@ -1,0 +1,12 @@
+{
+  "name": "Studio Notes — Carnet de photographe",
+  "short_name": "Studio Notes",
+  "description": "Carnet de shootings cosplay, contacts et autorisations.",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101017",
+  "theme_color": "#11111a",
+  "icons": []
+}
